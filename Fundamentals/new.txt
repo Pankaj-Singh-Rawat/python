@@ -21,4 +21,4 @@ def my_function(a):
 
 my_function( [23,4,354,423])
 
-print(isSameAfterReversals(526))
+print(isSameAfterReversals(526))This is the last appended lineThis is the last appended lineThis is the last appended lineThis is the last appended line
