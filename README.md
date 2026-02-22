@@ -45,7 +45,7 @@ python --version
 ## Installation
 ### 1. Clone the repository:
 ```text
-git clone https://github.com/your-username/python.git
+git clone https://github.com/Pankaj-Singh-Rawat/python.git
 ```
 
 ### 2. Navigate to the directory:
