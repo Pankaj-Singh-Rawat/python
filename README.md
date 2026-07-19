@@ -65,6 +65,7 @@ pip install -r requirements.txt
 | **DSA** | Optimization | `binarySearch.py`, `kadaneAlgo.py` |
 | **NumPy** | Scientific Computing | `multinomial_dist.ipynb`, `ufunc_intro.ipynb` |
 | **Pandas** | Data Management | `data.csv`, `exercise_data.csv` |
+| **Flow** | Pattern Recognition | `ll.py`, `graphs.py` |
 
 # 📝 License
 This project is for educational purposes. Feel free to use the code for learning or as a reference for your own projects.
